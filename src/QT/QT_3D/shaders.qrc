@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fshader.glsl</file>
+        <file>vshader.glsl</file>
+        <file>../img/wolf_bg.jpeg</file>
+    </qresource>
+</RCC>
